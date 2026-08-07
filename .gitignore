@@ -1,0 +1,9 @@
+# Large ONNX Model files
+DL/Translator/assets/
+*.onnx
+*.onnx_data
+*.part
+
+# Large Datasets
+ML/LogisticRegression/newsCategory/data/
+*.json
